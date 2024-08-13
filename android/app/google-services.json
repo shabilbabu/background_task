@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "164067912971",
+    "firebase_url": "https://alaram-12a83-default-rtdb.firebaseio.com",
+    "project_id": "alaram-12a83",
+    "storage_bucket": "alaram-12a83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164067912971:android:4bd1a020a3fa40d322c60e",
+        "android_client_info": {
+          "package_name": "com.example.push_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATGheAXjPRBPnv_g9ujEFTdUgtis1uhC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164067912971:android:7064c404103a03e522c60e",
+        "android_client_info": {
+          "package_name": "com.example.push_notificato_sender"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATGheAXjPRBPnv_g9ujEFTdUgtis1uhC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164067912971:android:86e686444c5e764b22c60e",
+        "android_client_info": {
+          "package_name": "com.example.task_background"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATGheAXjPRBPnv_g9ujEFTdUgtis1uhC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
